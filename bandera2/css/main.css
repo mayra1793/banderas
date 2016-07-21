@@ -1,0 +1,15 @@
+/* Escribe tu css aqui */
+.amarilla{
+	position: relative;
+	width: 200px;
+	height: 100px;
+	background: yellow;
+	color:black;
+
+}
+.red{
+	width: 200px;
+	height: 100px;
+	background: red;
+	color:black;
+}

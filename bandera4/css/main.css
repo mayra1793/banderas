@@ -1,0 +1,19 @@
+/* Escribe tu css aqui */
+div{
+	padding: 0px 5px 0px;
+	margin: 10px 0px 0px 10px;
+	float: left;
+	text-align: center;
+}
+.amarilla{
+	width: 150px;
+	height: 30px;
+	background: yellow;
+	color:black;
+}
+.red{
+	width: 50px;
+	height: 30px;
+	background: red;
+	color:black;
+}

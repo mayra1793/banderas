@@ -1,0 +1,17 @@
+/* Escribe tu css aqui */
+.amarilla{
+	width: 200px;
+	height: 100px;
+	background: yellow;
+	color:black;
+	float: left;
+	margin: 0px 20px 0px 20px;
+
+}
+.red{
+	float: left;
+	width: 200px;
+	height: 100px;
+	background: red;
+	color:black;
+}

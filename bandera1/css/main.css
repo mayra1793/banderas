@@ -1,0 +1,18 @@
+/* Escribe tu css aqui */
+div{
+	padding: 3px 11px 3px 11px;
+}
+.amarilla{
+	position: relative;
+	width: 200px;
+	height: 100px;
+	background: yellow;
+	color:black;
+
+}
+.red{
+	width: 200px;
+	height: 100px;
+	background: red;
+	color:black;
+}
